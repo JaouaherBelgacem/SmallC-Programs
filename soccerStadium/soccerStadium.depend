@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1643581263 source:c:\users\acer\desktop\hshl online\semester 3\microcontroller ws 21\soccerstadium\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+
+1643647086 source:c:\users\acer\desktop\hshl online\semester 3\microcontroller ws 21\micro examss21\soccerstadium\main.c
+	<stdio.h>
+	<winsock2.h>
+
