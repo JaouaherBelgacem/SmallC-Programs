@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1643471197 source:c:\users\acer\desktop\hshl online\semester 3\microcontroller ws 21\atm-state\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
